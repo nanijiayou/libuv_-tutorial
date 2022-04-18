@@ -1,5 +1,0 @@
-D:/code/cpp/libuv_tutorial/out/build/x64-Debug/CMakeFiles/Idle.dir
-D:/code/cpp/libuv_tutorial/out/build/x64-Debug/CMakeFiles/Hello.dir
-D:/code/cpp/libuv_tutorial/out/build/x64-Debug/CMakeFiles/Fs.dir
-D:/code/cpp/libuv_tutorial/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-D:/code/cpp/libuv_tutorial/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir

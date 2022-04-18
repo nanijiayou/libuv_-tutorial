@@ -31,4 +31,17 @@
 *.out
 *.app
 
-*vs/
+/build/
+
+
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.sln.cache
+*.ncb
+*.vcproj
+*.vcproj*.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
